@@ -18,7 +18,7 @@ Add kanso-jam to your project depenencies
 
 ```json
 "kanso-jam": {
-    "git-info": null
+    "kanso-jam": null
 }
 ```
 
